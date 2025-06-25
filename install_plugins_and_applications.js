@@ -144,4 +144,80 @@ installPluginsAndApplications([
     'com.snc.document_management', //Managed Documents
     'com.glide.quiz_designer', //Quiz Designer
     'sn_vsc', //Security Center    
+
+    //Custom attachements
+    'com.glide.ux.starter.experience', //UX Starter Experience
+    'com.glide.app_collaboration', //App Collaboration
+    'com.glide.creator_studio.global', //Creator Studio - Global
+    'com.glide.cs.commons', //Glide Conversation Server Commons
+    'com.servicenow_now_carousel_text', //@servicenow/now-carousel-text
+    'com.snc.discovery', //Discovery
+    'com.snc.discovery.ip_based', //Discovery - IP Based
+    'com.snc.discovery.error', //Discovery use of ITOM errors
+    'com.snc.svc_err_mgmt.base', //Base ITOM Error Management
+    'com.snc.svc_err_mgmt', //Service Error Management
+    'com.snc.discovery.core', //Discovery Core
+    'com.snc.discovery.results_ui', //Discovery Results UI
+    'com.snc.itom.license', //ITOM Licensing
+    'com.snc.discovery.schedule_config', //Discovery Schedule Configuration
+    'com.snc.discovery.api', //Discovery API
+    'com.snc.puppet.core', //Puppet Configuration Management Core
+    'com.snc.service-watch.commons', //Service Watch Suite commons
+    'com.snc.cloud.core', //Cloud Provisioning and Governance Core
+    'com.snc.pattern.designer', //Pattern Designer
+    'com.snc.cloud.api', //Cloud API
+    'com.snc.ng.pattern.designer', //Pattern Designer (NG version)
+    'paris.pattern.engine', //Paris Pattern Engine
+    'com.sn_servicemodeldesigner', //Service Model Designer
+    'com.sn_sra.global', //Release Automation Global
+    'com.glideapp.workflow.fd_launcher', //Workflow Flow Designer Launcher
+    'com.snc.itom.daw', //ITOM Discovery Admin Workspace
+    'com.snc.service-watch', //Event Management and Service Mapping Core
+    'com.itom-map-app', //Service Mapping – Map
+    'com.snc.service-mapping', //Service Mapping
+    'com.glideapp.itom.snac', //Event Management
+    'com.snc.sa.analytics', //Service Analytics
+    'com.snc.sa.mid.webserver', //Mid Web Server
+    'com.em-alert-mgmt-content', //Alert Management Content
+    'com.itom-noc-app', //Operator Workspace (DEPRECATED)
+    'com.glideapp.itom.snac.perf.acc', //Event Management Performance Accelerator
+    'com.snc.sa.accutils', //Agent Client Collector Global Utilities
+    'com.glide.hub.action_step.soap', //ServiceNow IntegrationHub Action Step - SOAP
+    'com.glide.hub.action_type.datastream', //ServiceNow IntegrationHub Action Template - Data Stream
+    'com.snc.itom.discovery.license', //ITOM Discovery License
+    'com.glide.hub.action_step.get_connection_info', //ServiceNow IntegrationHub Action Step - Get Connection Info
+    'com.snc.itom.vis.license', //ITOM Visibility License
+    'com.glide.data_services_canonicalization.client', //Normalization Data Services Client
+    'com.snc.discovery.file_based_discovery', //File Based Discovery
+    'com.snc.file_signature_normalization', //Software Asset Management - File Signature Normalization
+    'com.snc.itom.smart.content', //ITOM Smart Content
+    'com.snc.pa.premium', //Performance Analytics - Premium
+    'com.glideapp.report.em', //Event Management Overview Homepage
+    'com.snc.pa.em', //Performance Analytics - Content Pack - Event Management
+    'com.snc.clotho', //MetricBase
+    'com.glide.highcharts', //Highcharts Reporting
+    'com.snc.sa.metric', //Metric Intelligence
+    'com.snc.agent.distributed.cluster', //MID Server Distributed Cluster
+    'com.snc.sa.metric.health', //Operational Intelligence - Extension Health Monitoring
+    'com.snc.extended_cmdb', //Extended CMDB
+    'com.snc.sams', //Software Asset Management Foundation
+    'com.snc.samp', //Software Asset Management Professional
+    'com.snc.sam.core', //Software Asset Management Core
+    'com.snc.samp.core', //Software Asset Management Professional Core
+    'com.snc.pa.samp', //Performance Analytics - Content Pack - Software Asset Management Professional
+    'com.snc.pa.spotlight', //Performance Analytics - Spotlight
+    'com.snc.pa.premium.sam', //Performance Analytics Premium for Software Asset Management
+    'com.sn_samp_workbench', //Software Asset Management - Common UI Components
+    'com.glide.hub.action_step.xmlparser', //ServiceNow IntegrationHub Action Step - XML Parser
+    'com.sn_samp_adobe', //Software Asset Management Professional for Adobe
+    'com.sn_samp_master', //Activate all Software Asset Management Professional plugins (do not activate...use 'Activate all Sof
+    'com.sn_samp_citrix', //Software Asset Management Professional for Citrix
+    'com.sn_samp_ibm', //Software Asset Management Professional for IBM
+    'com.sn_samp_sap', //Software Asset Management Professional for SAP
+    'com.snc.samp.microsoft', //Software Asset Management Professional for Microsoft
+    'com.sn_samp_vmware', //Software Asset Management Professional for VMware
+    'com.snc.samp.oracle', //Software Asset Management Professional for Oracle
+    'com.sn_samp_eng_app', //Software Asset Management Professional for Engineering Applications
+    'com.glide.integration_studio', //Integration Studio API
+
 ]);
