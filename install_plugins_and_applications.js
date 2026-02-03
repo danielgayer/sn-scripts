@@ -219,5 +219,11 @@ installPluginsAndApplications([
     'com.snc.samp.oracle', //Software Asset Management Professional for Oracle
     'com.sn_samp_eng_app', //Software Asset Management Professional for Engineering Applications
     'com.glide.integration_studio', //Integration Studio API
+    'sn_tsom_patterns' //Telecom Discovery Patterns
+    'sn_tsom_core' //Telecom Service Operations Core
+    'sn_sgc_central' //SGC Central
+    'sn_agent' // Agent Client Collector Framework
+    'sn_acc_wrksp' // ACC Admin Workspace 
+    'sn_disco_certmgmt' //Certificate Inventory and Management
 
 ]);
