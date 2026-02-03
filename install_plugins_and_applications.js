@@ -219,21 +219,21 @@ installPluginsAndApplications([
     'com.snc.samp.oracle', //Software Asset Management Professional for Oracle
     'com.sn_samp_eng_app', //Software Asset Management Professional for Engineering Applications
     'com.glide.integration_studio', //Integration Studio API
-    'sn_tsom_patterns' //Telecom Discovery Patterns
-    'sn_tsom_core' //Telecom Service Operations Core
-    'sn_sgc_central' //SGC Central
-    'sn_agent' // Agent Client Collector Framework
-    'sn_acc_wrksp' // ACC Admin Workspace 
-    'sn_disco_certmgmt' //Certificate Inventory and Management
-    'sn_itom_infra_ws' //ITOM Infra Services Workspace
-    'sn_itom_cam' //Cloud Workspace
-    'sn_ac' //Automation Center
-    'sn_acc_vis_content' //Agent Client Collector for Visibility Content
-    'com.snc.cmdb.csdm.activation' //CSDM Activation
-    'sn_em_ai' //Event Management Core
-    'sn_sow_itom_cont' //Service Operations Workspace ITOM Apps
-    'sn_itom_uib_comp' //Service Operations Workspace UI Components
-    'sn_apm_mdtl' //Enterprise Modeling and Visualization
+    'sn_tsom_patterns', //Telecom Discovery Patterns
+    'sn_tsom_core', //Telecom Service Operations Core
+    'sn_sgc_central', //SGC Central
+    'sn_agent', // Agent Client Collector Framework
+    'sn_acc_wrksp', // ACC Admin Workspace 
+    'sn_disco_certmgmt', //Certificate Inventory and Management
+    'sn_itom_infra_ws', //ITOM Infra Services Workspace
+    'sn_itom_cam', //Cloud Workspace
+    'sn_ac', //Automation Center
+    'sn_acc_vis_content', //Agent Client Collector for Visibility Content
+    'com.snc.cmdb.csdm.activation', //CSDM Activation
+    'sn_em_ai', //Event Management Core
+    'sn_sow_itom_cont', //Service Operations Workspace ITOM Apps
+    'sn_itom_uib_comp', //Service Operations Workspace UI Components
+    'sn_apm_mdtl', //Enterprise Modeling and Visualization
     'sn_sow_em_um' //Service Operations Workspace Service Map Monitoring
     
 ]);
