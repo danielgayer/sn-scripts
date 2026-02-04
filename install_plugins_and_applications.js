@@ -234,6 +234,7 @@ installPluginsAndApplications([
     'sn_sow_itom_cont', //Service Operations Workspace ITOM Apps
     'sn_itom_uib_comp', //Service Operations Workspace UI Components
     'sn_apm_mdtl', //Enterprise Modeling and Visualization
-    'sn_sow_em_um' //Service Operations Workspace Service Map Monitoring
+    'sn_sow_em_um', //Service Operations Workspace Service Map Monitoring
+    'sn_itom_cloud_svc' //ITOM Cloud Services Core
     
 ]);
