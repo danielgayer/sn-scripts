@@ -236,6 +236,7 @@ installPluginsAndApplications([
     'sn_apm_mdtl', //Enterprise Modeling and Visualization
     'sn_sow_em_um', //Service Operations Workspace Service Map Monitoring
     'sn_itom_cloud_svc', //ITOM Cloud Services Core
-    'sn_cloud_ops_ws' //Cloud Discovery Workspace
+    'sn_cloud_ops_ws', //Cloud Discovery Workspace
+    'sn_service_graph' //CMDB application for API's and CLI
     
 ]);
